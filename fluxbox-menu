@@ -1,0 +1,14 @@
+[begin] (Fluxbox)
+[exec] (Web Browser) {midori}
+[exec] (Text Editor) {mousepad}
+[exec] (Terminal) {xterm}
+[separator]
+[exec] (Edit Hosts File) {mousepad /etc/hosts}
+[exec] (Edit Custom Hosts) {mousepad /data/hosts.custom}
+[separator]
+[workspaces] (Workspaces)
+[separator]
+[reconfigure] (Reconfigure)
+[restart] (Restart)
+[exit] (Exit)
+[end]
